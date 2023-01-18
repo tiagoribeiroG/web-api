@@ -1,0 +1,23 @@
+body {
+    background-color: #161616;
+    color: white;
+}
+
+.logo {
+    height: 48px;
+    width: 48px;
+    margin-right: 12px;
+}
+
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+h1 {
+    font-family: Impact, sans-serif;
+}
